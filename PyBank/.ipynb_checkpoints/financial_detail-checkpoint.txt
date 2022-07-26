@@ -1,0 +1,8 @@
+    ****************
+    Financial Detail  
+    ****************
+    Total Months: 86
+    Total Profit/Losses: $38382578
+    Average Month-over-Month Change: $-2315.12
+    Greatest Increase in Profits Month-over-Month: Feb-2012: $1926159
+    Greatest Decrease in Profits Month-over-Month: Sep-2013: $-2196167
